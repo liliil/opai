@@ -11,10 +11,9 @@ yarn add opai
 
 import opai from "opai"
 
-
 class Test {
     constructor(){
-        this.opai = new opai(this)
+        new opai(this, "E")
     }
 }
 
