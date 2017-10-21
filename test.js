@@ -3,7 +3,7 @@ import opai from "./lib"
 
 class Test {
     constructor(){
-        this.opai = new opai(this)
+        new opai(this, "E")
     }
 }
 
