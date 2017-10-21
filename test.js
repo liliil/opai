@@ -1,4 +1,4 @@
-import opai from "opi"
+import opai from "./lib"
 
 
 class Test {
