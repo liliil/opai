@@ -1,10 +1,10 @@
 a simple event dispatcher lib
 
-#usage
+## usage
 
 
 ```
-yarn add opi
+yarn add opai
 ```
 
 ```js
